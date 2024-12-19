@@ -1,0 +1,10 @@
+ENTORNO VIRTUAL
+python -m venv nombre_del_entorno
+
+WINDOWS
+nombre_del_entorno\Scripts\activate
+
+MAC
+source nombre_del_entorno/bin/activate
+
+pip install -r requirements.txt  // No Funciono investigar por que
